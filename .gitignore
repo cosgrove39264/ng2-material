@@ -33,3 +33,4 @@ testem.log
 
 #System Files
 .DS_Store
+/ng2-material.iml
